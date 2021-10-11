@@ -1,3 +1,3 @@
 # webpages
 
-hosting link:  https://codemastergeneral.github.io/webpages/
+hosting link:  https://vasudevmandal.github.io/webpages/
